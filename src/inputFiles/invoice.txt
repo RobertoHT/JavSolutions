@@ -1,9 +1,0 @@
-{
-	"invoice": {
-		"products": [
-		  	{"name": "food","price": "5.00"},
-			{"name": "drink","price": "2.00"}
-		],
-		"total": "7.00"
-	}
-}

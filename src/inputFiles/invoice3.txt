@@ -1,0 +1,9 @@
+{
+	"invoice": {
+		"products": [
+		  	{"name": "fanta","price": "9.00"},
+			{"name": "cheetos","price": "6.00"}
+		],
+		"total": "15.00"
+	}
+}
